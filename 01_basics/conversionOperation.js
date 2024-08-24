@@ -86,3 +86,4 @@ console.log(++gameCounter)  // returns 103
 // in summary:
 // Prefix returns the value after the increment.
 // Postfix returns the value before the increment.
+
