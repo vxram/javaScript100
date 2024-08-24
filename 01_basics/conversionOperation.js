@@ -37,3 +37,6 @@ let num = 22
 let numToString = String(22)
 console.log(typeof numToString) // string
 
+
+let ok = Number(null)
+console.log
